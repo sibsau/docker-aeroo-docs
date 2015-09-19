@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Juan Jose Scarafia <jjs@adhoc.com.ar>
+MAINTAINER Daniel Blanco <daniel@blancomartin.cl>
 
 ENV REFRESHED_AT 2015-05-02
 
