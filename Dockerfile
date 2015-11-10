@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM debian:jessie
 MAINTAINER Daniel Blanco <daniel@blancomartin.cl>
 
 ENV REFRESHED_AT 2015-05-02
