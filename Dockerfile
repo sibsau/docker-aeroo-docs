@@ -1,7 +1,7 @@
 FROM debian:jessie
 MAINTAINER Anton Goroshkin <neobht@sibsau.ru>
 
-ENV REFRESHED_AT 2016-11-06
+ENV REFRESHED_AT 2017-03-04
 
 RUN DEBIAN_FRONTEND=noninteractive && \
     apt-get update && \
