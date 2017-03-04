@@ -7,7 +7,7 @@ You should run the image with:
 
    To run on system boot:
     
-        sudo docker run -p 8989:8989 --name="aeroo_docs" --restart=always -d sibsau/aeroo-docs
+        sudo docker run -p 8989:8989 --name="aeroo-docs" --restart=always -d sibsau/aeroo-docs
 
    To run manually and delete it on stop:
     
