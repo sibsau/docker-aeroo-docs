@@ -1,7 +1,7 @@
-FROM ubuntu:14.04
-MAINTAINER Daniel Blanco <daniel@blancomartin.cl>
+FROM debian:jessie
+MAINTAINER Anton Goroshkin <neobht@sibsau.ru>
 
-ENV REFRESHED_AT 2015-05-02
+ENV REFRESHED_AT 2017-03-04
 
 RUN DEBIAN_FRONTEND=noninteractive && \
     apt-get update && \
